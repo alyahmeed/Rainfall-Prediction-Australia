@@ -13,7 +13,7 @@ This project builds a Machine Learning predictive system to forecast whether it 
 - **Accuracy:** Reached **83.54%** using only 8 PCA components (reducing the feature space by >60%).
 - **ROC-AUC Score:** ~89%, demonstrating strong pattern recognition capabilities.
 
-## 👥 Team Members
+##  Team Members
 - Ali Ahmed Atef
 - Alaa Elnagih
 - Nardin Shaker
